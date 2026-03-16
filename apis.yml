@@ -1,12 +1,27 @@
+aid: html
 name: HTML
-description: HTML is an artificial intelligence technology or practice that leverages
-  machine learning, data analysis, or intelligent automation to solve complex problems.
-  It is increasingly applied across industries to improve efficiency, accuracy, and
-  decision-making in both technical and business contexts.
-url: null
+description: >-
+  HTML (HyperText Markup Language) is the standard markup language for
+  creating web pages and web applications. HTML describes the structure of
+  web content and is used alongside CSS and JavaScript to build the web.
+  This repo covers HTML-related standards, specifications, and resources.
+url: https://raw.githubusercontent.com/api-evangelist/html/refs/heads/main/apis.yml
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-- HTML
+  - HTML
+  - Web Standards
+  - Markup Language
+  - W3C
 created: '2025'
-modified: '2025'
+modified: '2026-03-16'
+specificationVersion: '0.19'
 apis: []
-common: []
+common:
+  - type: Website
+    url: https://html.spec.whatwg.org/
+  - type: Reference
+    url: https://developer.mozilla.org/en-US/docs/Web/HTML
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
