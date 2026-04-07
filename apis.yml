@@ -10,9 +10,9 @@ type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
   - HTML
-  - Web Standards
   - Markup Language
   - W3C
+  - Web Standards
 created: '2025'
 modified: '2026-03-16'
 specificationVersion: '0.19'
