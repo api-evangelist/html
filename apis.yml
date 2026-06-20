@@ -14,7 +14,7 @@ description: >-
   web developers building on top of HTTP.
 url: https://raw.githubusercontent.com/api-evangelist/html/refs/heads/main/apis.yml
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - HTML
   - Living Standard
